@@ -98,8 +98,3 @@ body {
 .form_input:not(:placeholder-shown) ~ .form_line {
     transform: scale(1);
 }
-@media (max-width:425px) {
-    .titulo{
-        font-size:1.8rem;
-    }
-}
