@@ -3,6 +3,10 @@
     padding:0;
     box-sizing:border-box;
 }
+label {
+    position: relative;
+    z-index: -2;
+}
 body {
     font-family: 'Roboto' sans-serif;
     background-color:#e5e5f7;
